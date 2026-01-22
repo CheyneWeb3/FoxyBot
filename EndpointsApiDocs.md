@@ -1,4 +1,4 @@
-# Foxy Bot (srver.zip) — API Endpoints + Telegram Actions
+# Foxy Bot — API Endpoints + Telegram Actions
 
 This documentation is **source-of-truth from the code in**:
 
@@ -9,7 +9,6 @@ This documentation is **source-of-truth from the code in**:
 * `bot/src/modules/roles.ts`
 * `bot/src/modules/cloudflare.ts`
 
-> Important: this zip does **NOT** include the on-chain watcher/indexer that writes into Mongo (`activities`, `collections`). So this doc covers **what exists here** (API + bot). Any watcher endpoints are not present in this zip.
 
 ---
 
